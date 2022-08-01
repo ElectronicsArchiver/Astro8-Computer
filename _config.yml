@@ -54,6 +54,14 @@ last_edit_timestamp : true
 
 
 back_to_top: true
-back_to_top_text: "▲"
+back_to_top_text: "Scroll Up"
 
 color_scheme: 'dark'
+
+
+just_the_docs:
+    collections:
+        Documentation:
+        name: Documentation
+        nav_exclude: false
+        search_exclude: false
